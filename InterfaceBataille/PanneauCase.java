@@ -9,7 +9,7 @@ import BatailleNavale.Modeles.*;
 import java.awt.event.*;
 
 public class PanneauCase extends JPanel implements ModelListener,MouseListener{
-    PlateauJoueur pJeu;
+    PlateauJoueur pJeu; \\ dasdasdasd
     PlateauJoueur appartenance;
     CasePlateau modelCaseP;
     int ligne, colonne;
